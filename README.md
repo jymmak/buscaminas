@@ -1,1 +1,1 @@
-# buscaminas
+![](assets/images/win.png)
